@@ -1,6 +1,6 @@
 ##  Bem vindo ao meu perfil do GitHub🖖
 
-<div align="wrapper">
+<div class="wrapper">
    <a href="https://github.com/Nikao1">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Nikao1&show_icons=true&theme=transparent" />
   </a>
