@@ -8,7 +8,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikao1&layout=compact&langs_count=8&card_height=180&theme=transparent" />
   </a>     
    <a href="https://github.com/Nikao1/lol-match-analysis">
-      <img height=144 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikao1&repo=lol-match-analysis&theme=transparent" />
+      <img height=167 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikao1&repo=lol-match-analysis&theme=transparent" />
    </a>
 </div>
 
