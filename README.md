@@ -1,26 +1,23 @@
 ## 👋 Bem vindo ao meu perfil do GitHub
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Nikao1">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=Nikao1&show_icons=true&theme=transparent" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Nikao1">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikao1&layout=compact&langs_count=8&theme=transparent" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Nikao1/lol-match-analysis">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikao1&repo=lol-match-analysis&theme=transparent" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <a href="https://github.com/Nikao1">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Nikao1&show_icons=true&theme=transparent" />
+  </a>
+
+  <a href="https://github.com/Nikao1">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikao1&layout=compact&langs_count=8&theme=transparent" />
+  </a>
+
+  <a href="https://github.com/Nikao1/lol-match-analysis">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikao1&repo=lol-match-analysis&theme=transparent" />
+  </a>
+
+</div>
 
 <hr>
+
 
    ## Tecnologias
 <div style="display: inline_block"><br>
