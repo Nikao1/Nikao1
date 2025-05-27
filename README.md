@@ -1,18 +1,19 @@
 ## 👋 Bem vindo ao meu perfil do GitHub
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <a href="https://github.com/Nikao1">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Nikao1&show_icons=true&theme=transparent" />
-  </a>
-
-  <a href="https://github.com/Nikao1">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikao1&layout=compact&langs_count=8&theme=transparent" />
-  </a>
-
-</div>
-
-<hr>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Nikao1">
+        <img src="https://github-readme-stats.vercel.app/api?username=Nikao1&show_icons=true&theme=transparent" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Nikao1">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikao1&layout=compact&langs_count=8&theme=transparent" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
    ## Tecnologias
