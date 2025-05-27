@@ -1,21 +1,23 @@
-##  Bem vindo ao meu perfil do GitHub🖖
+## 👋 Bem vindo ao meu perfil do GitHub
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
   <a href="https://github.com/Nikao1">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=Nikao1&show_icons=true&theme=transparent" />
   </a>
+
   <a href="https://github.com/Nikao1">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikao1&layout=compact&langs_count=8&theme=transparent" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/Nikao1/lol-match-analysis">
-    <img height="167" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikao1&repo=lol-match-analysis&theme=transparent" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Nikao1&repo=lol-match-analysis&theme=transparent" />
   </a>
-</p>
+
+</div>
 
 <hr>
+
 
    ## Tecnologias
 <div style="display: inline_block"><br>
