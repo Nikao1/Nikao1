@@ -4,16 +4,17 @@
   <tr>
     <td>
       <a href="https://github.com/Nikao1">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nikao1&show_icons=true&theme=transparent" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nikao1&show_icons=true&theme=transparent&hide_border=true&border_radius=0" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Nikao1">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikao1&layout=compact&langs_count=8&theme=transparent" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikao1&layout=compact&langs_count=8&theme=transparent&hide_border=true&border_radius=0" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
    ## Tecnologias
